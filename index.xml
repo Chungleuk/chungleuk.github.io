@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Liva | Personal blog template</title>
-    <link>https://examplesite.com/</link>
-    <description>Recent content on Liva | Personal blog template</description>
+    <title> Personal blog template</title>
+    <link>https://chungleuk.github.io/</link>
+    <description>Recent content on  Personal blog template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://chungleuk.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://examplesite.com/blog/post-13/</link>
+      <link>https://chungleuk.github.io/blog/post-13/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://examplesite.com/blog/post-13/</guid>
+      <guid>https://chungleuk.github.io/blog/post-13/</guid>
       <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     
     <item>
       <title>My first post</title>
-      <link>https://examplesite.com/blog/post-1/</link>
+      <link>https://chungleuk.github.io/blog/post-1/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://examplesite.com/blog/post-1/</guid>
+      <guid>https://chungleuk.github.io/blog/post-1/</guid>
       <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     
