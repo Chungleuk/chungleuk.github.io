@@ -4,17 +4,77 @@
   
   <url>
     <loc>https://chungleuk.github.io/</loc>
-    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
+    <lastmod>2020-10-17T13:49:23+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://chungleuk.github.io/about/</loc>
-    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
+    <lastmod>2020-10-17T13:49:23+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://chungleuk.github.io/blog/</loc>
-    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
+    <lastmod>2020-10-17T13:49:23+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chungleuk.github.io/categories/</loc>
+    <lastmod>2020-09-19T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chungleuk.github.io/categories/english-writing/</loc>
+    <lastmod>2020-09-19T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chungleuk.github.io/tags/game/</loc>
+    <lastmod>2020-09-19T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chungleuk.github.io/tags/html/</loc>
+    <lastmod>2020-09-19T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chungleuk.github.io/blog/post-7/</loc>
+    <lastmod>2020-09-19T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chungleuk.github.io/tags/new/</loc>
+    <lastmod>2020-09-19T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chungleuk.github.io/tags/photos/</loc>
+    <lastmod>2020-09-19T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chungleuk.github.io/tags/python/</loc>
+    <lastmod>2020-09-19T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chungleuk.github.io/tags/</loc>
+    <lastmod>2020-09-19T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chungleuk.github.io/blog/post-4/</loc>
+    <lastmod>2020-08-26T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chungleuk.github.io/blog/post-3/</loc>
+    <lastmod>2020-08-19T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chungleuk.github.io/blog/post-1/</loc>
+    <lastmod>2020-07-25T10:07:47+06:00</lastmod>
   </url>
   
   <url>
@@ -28,53 +88,33 @@
   </url>
   
   <url>
-    <loc>https://chungleuk.github.io/categories/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chungleuk.github.io/tags/game/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://chungleuk.github.io/categories/go-language/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chungleuk.github.io/blog/post-13/</loc>
+    <loc>https://chungleuk.github.io/blog/post-template/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chungleuk.github.io/tags/html/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+    <loc>https://chungleuk.github.io/blog/post-2/</loc>
   </url>
   
   <url>
-    <loc>https://chungleuk.github.io/blog/post-1/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+    <loc>https://chungleuk.github.io/blog/post-5/</loc>
   </url>
   
   <url>
-    <loc>https://chungleuk.github.io/tags/new/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+    <loc>https://chungleuk.github.io/blog/post-6/</loc>
   </url>
   
   <url>
-    <loc>https://chungleuk.github.io/tags/photos/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+    <loc>https://chungleuk.github.io/blog/post-8/</loc>
   </url>
   
   <url>
-    <loc>https://chungleuk.github.io/tags/python/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chungleuk.github.io/tags/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+    <loc>https://chungleuk.github.io/blog/post-test/</loc>
   </url>
   
 </urlset>
