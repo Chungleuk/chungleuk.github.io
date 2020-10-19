@@ -8,6 +8,15 @@
     <language>en-us zh-tw</language>
     <lastBuildDate>Sat, 17 Oct 2020 13:49:23 +0600</lastBuildDate><atom:link href="https://chungleuk.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>The future of self-driving cars</title>
+      <link>https://chungleuk.github.io/blog/post-9/</link>
+      <pubDate>Tue, 13 Oct 2020 10:07:47 +0600</pubDate>
+      
+      <guid>https://chungleuk.github.io/blog/post-9/</guid>
+      <description>The future of self-driving cars Please read this article about driverless cars (cars that drive themselves) and respond to the following questions:</description>
+    </item>
+    
+    <item>
       <title>Why we all procrastinate?</title>
       <link>https://chungleuk.github.io/blog/post-8/</link>
       <pubDate>Mon, 05 Oct 2020 10:07:47 +0600</pubDate>
@@ -77,15 +86,6 @@
       
       <guid>https://chungleuk.github.io/blog/post-2/</guid>
       <description>Colonizing Mars please watch this short video discussing the possibility of humans colonizing Mars, and answer the following questions:</description>
-    </item>
-    
-    <item>
-      <title>Why we all procrastinate?</title>
-      <link>https://chungleuk.github.io/blog/post-test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://chungleuk.github.io/blog/post-test/</guid>
-      <description>Why we all procrastinate? Actually, this is the first time I have come across this term, so I searched its meaning on google and read some articles like this, it was interesting because it explained why it was different from laziness: we procrastinate because we&amp;rsquo;re not in a good mood.</description>
     </item>
     
   </channel>
